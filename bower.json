@@ -1,0 +1,9 @@
+{
+  "name": "google-maps-v3-infobox",
+  "version": "0.0.0",
+  "main": "infobox.js",
+  "authors": [
+    "Benjamin Sagardoy <bensagardoy@hotmail.com>"
+  ],
+  "license": "MIT"
+}
