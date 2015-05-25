@@ -4,4 +4,4 @@ This is a copy of the Google Maps Library Infobox which can be found [here](http
 
 ## Version
 
-The actual version is a copy of the last version - 1.1.13 (March 19, 2014) - from Google Code repository.
+The actual version is a copy of the last version (1.1.13 [March 19, 2014]) from [Google Code repository](http://google-maps-utility-library-v3.googlecode.com/svn/tags/infobox/1.1.13/src/).
